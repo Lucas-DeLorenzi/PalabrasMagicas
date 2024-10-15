@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalabrasMagicas", "PalabrasMagicas\PalabrasMagicas.csproj", "{1EA52EB9-4F6C-413F-82BB-892D4EF3C8C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalabrasMagicas.Tests", "PalabrasMagicas.Tests\PalabrasMagicas.Tests.csproj", "{C6C9F2A9-5FB2-4FF3-A8CB-2CF63FBE1FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA52EB9-4F6C-413F-82BB-892D4EF3C8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA52EB9-4F6C-413F-82BB-892D4EF3C8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA52EB9-4F6C-413F-82BB-892D4EF3C8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA52EB9-4F6C-413F-82BB-892D4EF3C8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C9F2A9-5FB2-4FF3-A8CB-2CF63FBE1FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C9F2A9-5FB2-4FF3-A8CB-2CF63FBE1FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C9F2A9-5FB2-4FF3-A8CB-2CF63FBE1FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C9F2A9-5FB2-4FF3-A8CB-2CF63FBE1FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.exe
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.deps.json
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.runtimeconfig.json
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.dll
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.pdb
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.AssemblyInfoInputs.cache
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.AssemblyInfo.cs
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.csproj.CoreCompileInputs.cache
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.dll
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\refint\PalabrasMagicas.dll
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.pdb
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.genruntimeconfig.cache
+D:\Mapplics\PalabrasMagicas\PalabrasMagicas\obj\Debug\net8.0\ref\PalabrasMagicas.dll
